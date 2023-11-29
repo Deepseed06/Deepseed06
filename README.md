@@ -1,3 +1,13 @@
+#Monster Rolodex
+
+This is a React js Project that allows you to search through a list of cards of monsters.
+
+It's my first React Js project 
+Getting introduced to learn some of the React js principles was a little challenging but i am getting the hang of it 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
